@@ -4,7 +4,8 @@
 The Radar Simulation System is a beginner-friendly electronics project that simulates a basic radar setup. It uses an ultrasonic sensor (HC-SR04) mounted on a servo motor, controlled by an Arduino, to scan for nearby objects. This data is then sent to a computer and visualized in real-time using Processing IDE as a sweeping radar interface — just like a real air defense system.
 
 🔧 Components Required
-|-----------------------------------------|
+
+
 | Component                    | Quantity |
 |------------------------------|----------|
 | Arduino Uno / Nano           | 1        |
