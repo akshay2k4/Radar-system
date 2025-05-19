@@ -5,7 +5,6 @@ The Radar Simulation System is a beginner-friendly electronics project that simu
 
 🔧 Components Required
 
-
 | Component                    | Quantity |
 |------------------------------|----------|
 | Arduino Uno / Nano           | 1        |
